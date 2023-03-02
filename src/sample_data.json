@@ -1,0 +1,42 @@
+[
+  {
+    "question": {
+      "choices": ["Color Pencil", "Paper", "Pastel", "Paint"],
+      "correct_choice_index": 3,
+      "text": "What is the art material shown close-up above?",
+      "image": "https://img.freepik.com/free-photo/flat-lay-creative-multicolored-paint-surface_23-2148815474.jpg?w=2000"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Pencil", "Oil Pastel", "Crayon", "Pen"],
+      "correct_choice_index": 1,
+      "text": "Which location is not a borough of NYC?",
+      "image": "https://learninglogforgina.files.wordpress.com/2015/02/painting-with-pastels-soft.jpg"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Pencil", "Oil Pastel", "Crayon", "Pen"],
+      "correct_choice_index": 2,
+      "text": "What material was used?",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-otherstates/bceeqa/article65618735.ece/alternates/FREE_1200/TH08-B.GHOSH-St%2BG02A0T7UG.3.jpg.jpg"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Pen", "Color Pencil", "Pencil", "Paint"],
+      "correct_choice_index": 0,
+      "text": "What material is shown in the image?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Polymer_clay_examples.jpg/1200px-Polymer_clay_examples.jpg"
+    }
+  },
+  {
+    "question": {
+      "choices": ["Color Pencils", "Erasers", "Cloth", "Clay"],
+      "correct_choice_index": 2,
+      "text": "What art material is this? ",
+      "image": "https://i.insider.com/6258284a1ab402001927add1?width=1000&format=jpeg&auto=webp"
+    }
+  }
+]
